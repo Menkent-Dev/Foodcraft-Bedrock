@@ -1,0 +1,27 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:item": {
+		"description": {
+			"identifier": "techcraftfe:milk_bottle",
+			"menu_category": {
+				"category": "items"
+			}
+		},
+		"components": {
+			"minecraft:icon": "techcraftfe_milk_bottle",
+			"minecraft:max_stack_size": 16,
+			"minecraft:use_modifiers": {
+				"use_duration": 1.6
+			},
+			"minecraft:food": {
+				"nutrition": 5,
+				"saturation_modifier": 1.2,
+				"using_converts_to": "minecraft:glass_bottle"
+			},
+			"minecraft:use_animation": "drink",
+			"minecraft:custom_components": [
+				"techcraftfe:remove_bad_effects"
+			]
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:block": {
+		"description": {
+			"identifier": "techcraftfe:salt_block",
+			"menu_category": {
+				"category": "nature"
+			}
+		},
+		"components": {
+			"minecraft:destructible_by_explosion": {
+				"explosion_resistance": 0.5
+			},
+			"minecraft:destructible_by_mining": {
+				"seconds_to_destroy": 0.5
+			},
+			"minecraft:loot": "loot_tables/blocks/salt_block.json"
+		}
+	}
+}

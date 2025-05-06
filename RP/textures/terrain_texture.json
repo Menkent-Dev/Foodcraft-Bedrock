@@ -1,0 +1,11 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "Foodcraft Bedrock",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"techcraftfe_salt_block": {
+			"textures": "textures/blocks/salt_block"
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "techcraftfe:fried_egg"
+		},
+		"tags": [
+			"furnace",
+			"blast_furnace"
+		],
+		"input": "minecraft:egg",
+		"output": "techcraftfe:fried_egg"
+	}
+}

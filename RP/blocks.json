@@ -1,0 +1,11 @@
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"techcraftfe:salt_block": {
+		"sound": "sand",
+		"textures": "techcraftfe_salt_block"
+	}
+}

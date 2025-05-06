@@ -1,0 +1,24 @@
+{
+	"resource_pack_name": "Foodcraft Bedrock",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"techcraftfe_sliced_bread": {
+			"textures": "textures/items/food/sliced_bread"
+		},
+		"techcraftfe_fried_egg": {
+			"textures": "textures/items/food/fried_egg"
+		},
+		"techcraftfe_chocolate_bar": {
+			"textures": "textures/items/food/chocolate_bar"
+		},
+		"techcraftfe_salt": {
+			"textures": "textures/items/salt"
+		},
+		"techcraftfe_toast": {
+			"textures": "textures/items/food/toast"
+		},
+		"techcraftfe_milk_bottle": {
+			"textures": "textures/items/food/milk_bottle"
+		}
+	}
+}

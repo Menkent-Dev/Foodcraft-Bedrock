@@ -1,0 +1,23 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:item": {
+		"description": {
+			"identifier": "techcraftfe:fried_egg",
+			"menu_category": {
+				"category": "equipment",
+				"group": "itemGroup.name.cookedFood"
+			}
+		},
+		"components": {
+			"minecraft:icon": "techcraftfe_fried_egg",
+			"minecraft:use_modifiers": {
+				"use_duration": 1.6
+			},
+			"minecraft:food": {
+				"nutrition": 5,
+				"saturation_modifier": 3.5
+			},
+			"minecraft:use_animation": "eat"
+		}
+	}
+}

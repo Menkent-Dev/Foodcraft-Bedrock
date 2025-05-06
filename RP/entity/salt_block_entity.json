@@ -1,0 +1,20 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "techcraftfe:salt_block_entity",
+      "materials": {
+        "default": "entity_alphablend"
+      },
+      "geometry": {
+        "default": "geometry.block.entity"
+      },
+      "textures": {
+        "default": "textures/blocks/salt_block"
+      },
+      "render_controllers": [
+        "controller.render.falling_block"
+      ]
+    }
+  }
+}

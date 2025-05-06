@@ -1,0 +1,14 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "techcraftfe:toast"
+		},
+		"tags": [
+			"furnace",
+			"blast_furnace"
+		],
+		"input": "techcraftfe:sliced_bread",
+		"output": "techcraftfe:toast"
+	}
+}

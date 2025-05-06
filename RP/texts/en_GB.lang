@@ -1,0 +1,13 @@
+## Pack
+pack.name=Foodcraft Bedrock V.1.0.0
+pack.description=This mod adds [INSERT NUMBER]+ different kinds of food, and tech to food. Made By M3nk3nt.
+## Items
+item.techcraftfe:sliced_bread=Sliced Bread
+item.techcraftfe:fried_egg=Fried Egg
+item.techcraftfe:chocolate_bar=Chocolate Stick
+item.techcraftfe:salt=Salt
+item.techcraftfe:toast=Toasted Bread
+item.techcraftfe:milk_bottle=Milk Bottle
+item.minecraft:cookie=Chocolate Chip Cookie
+## Blocks
+tile.techcraftfe:salt_block.name=Salt Block
