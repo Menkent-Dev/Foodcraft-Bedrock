@@ -1,4 +1,4 @@
-# Techcraft-Bedrock
+# Foodcraft-Bedrock
 A Food Addon for Minecraft Bedrock Edition
 
 > [!WARNING]
